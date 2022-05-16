@@ -8359,6 +8359,20 @@
     },
 
     {
+        "name": "Okta",
+        "url": "https://support.okta.com/help/s/opencase",
+        "difficulty": "hard",
+        "notes": "Open a new support case to request account deletion.",
+        "notes_pt_br": "Abra um novo caso de suporte para requerer a deleção da conta.",
+        "domains": [
+            "okta.com",
+            "okta-emea.com",
+            "okta-gov.com",
+            "oktapreview.com"
+        ]
+    },
+
+    {
         "name": "OneCompiler",
         "url": "https://onecompiler.com/",
         "difficulty": "easy",

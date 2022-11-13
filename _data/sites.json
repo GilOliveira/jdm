@@ -46,6 +46,7 @@
         "difficulty": "easy",
         "notes": "In your profile preferences, click in 'Delete Account' then confirm.",
         "notes_pt_br": "Nas preferências do seu perfil, clique em 'Delete Account' e depois confirme.",
+        "notes_pt_pt": "Nas preferências do seu perfil, clique em 'Delete Account' e, em seguida, confirme.",
         "domains": [
             "16personalities.com"
         ]
@@ -56,6 +57,7 @@
         "url": "https://1984.hosting/GDPR/",
         "difficulty": "easy",
         "notes": "If you are logged in, you can use the automated deletion process. If that doesn't work, you can contact their support to do it.",
+        "notes_pt_pt": "Se tiver a sessão iniciada, pode utilizar o processo de eliminação automatizado. Caso não funcione, faça uma solicitação ao suporte.",
         "email": "gdpr@1984.is",
         "domains": [
             "1984.hosting"
@@ -67,6 +69,7 @@
         "url": "https://1fichier.com/contact.html",
         "difficulty": "hard",
         "notes": "Contact support using the linked form or by email and request account deletion.",
+        "notes_pt_pt": "Contacte o suporte através do formulário da hiperligação ou por e-mail e solicite a eliminação da sua conta.",
         "domains": [
             "1fichier.com"
         ]
@@ -108,6 +111,7 @@
         "url": "https://www.3daimtrainer.com/faq",
         "difficulty": "hard",
         "notes": "Email your username and e-mail used to create the account.",
+        "notes_pt_pt": "Envie o nome de utilizador e endereço de e-mail que usou para criar a conta.",
         "email": "shoot@3daimtrainer.com",
         "domains": [
             "3daimtrainer.com"
@@ -160,6 +164,7 @@
         "url": "https://8tracks.com/",
         "difficulty": "impossible",
         "notes": "There exists an option to delete your account in your account settings, but it's not currently functional.",
+        "notes_pt_pt": "Existe uma opção para eliminar a sua conta nas definições, mas atualmente não está funcional.",
         "domains": [
             "8tracks.com"
         ]
@@ -225,6 +230,7 @@
         "difficulty": "hard",
         "email": "contato@abacashi.com",
         "notes": "Either use the contact form or e-mail them directly asking for the account to be deleted",
+        "notes_pt_pt": "Utilize o formulário de contacto ou envie diretamente um e-mail a solicitar a eliminação da conta.",
         "notes_ru": "Используйте контактную форму, или отправьте электронное письмо напрямую с просьбой удалить учетную запись.",
         "domains": [
             "abacashi.com"
@@ -287,6 +293,7 @@
         "url": "https://academictorrents.com",
         "difficulty": "hard",
         "notes": "You must send an email with your account details.",
+        "notes_pt_pt": "Envie um e-mail com os detablhes da sua conta.",
         "email": "contact@academictorrents.com",
         "email_subject": "Account Deletion",
         "domains": [
@@ -357,6 +364,7 @@
         "difficulty": "hard",
         "email": "privacy@activision.com",
         "notes": "Must put in a request, via a ticket system, while logged in to the account (to verify the identity of the account owner).",
+        "notes_pt_pt": "Deve submeter um pedido utilizando o sistema de tickets, com a sessão iniciada.",
         "domains": [
             "activision.com",
             "s.activision.com",
@@ -392,6 +400,7 @@
         "url": "https://adf.ly/account/delete",
         "difficulty": "easy",
         "notes": "Press the button to delete your account, make sure you're logged in.",
+        "notes_pt_pt": "Clique no botão de eliminação de conta após garantir que tem a sessão iniciada.",
         "domains": [
             "adf.ly",
             "login.adf.ly"
@@ -403,6 +412,7 @@
         "url": "https://adfoc.us/tickets/",
         "difficulty": "hard",
         "notes": "Contact customer support using the ticket form or by email to request account erasure. They are known to be very slow to delete accounts, but they will eventually, and you probably will not be notified when it happens.",
+        "notes_pt_pt": "Contacte o apoio ao cliente utilizado o formulário ou através de email, solicitando a eliminação da conta. Eles têm a reputação de serem lentos a elimiar contas, mas eventualmente acabam por cumprir. Provavelmente não vai receber nenhuma notificação quando isso acontecer.",
         "email": "support@adfoc.us",
         "email_body": "Please delete my AdFoc.us account registered under this email address.",
         "email_subject": "Account Deletion Request",
@@ -582,6 +592,7 @@
         "url": "https://airvpn.org/contact/",
         "difficulty": "hard",
         "notes": "Visit the linked form and submit a support ticket requesting account deletion. Make sure you are logged in so they can find your account, or specify your username in your message. Alternatively, you may also send an email.",
+        "notes_pt_pt": "Visite o formulário através da hiperligação e submeta um pedido de suporte, solicitando a eliminação da conta. Assegure-se que tem a sessão iniciada ou, em alternativa, especifique o seu nome de utilizador na sua mensagem. Pode também enviar um e-mail.",
         "email": "support@airvpn.org",
         "domains": [
             "airvpn.org",
@@ -595,6 +606,7 @@
         "email": "privacy@inmusicbrands.com",
         "difficulty": "hard",
         "notes": "You need to contact support to delete your account and request deletion of your personal data.",
+        "notes_pt_pt": "Tem que contactar o suporte para eliminar a sua conta e solicitar a eliminação dos seus dados pessoais.",
         "domains": [
             "akaipro.com"
         ]
@@ -605,6 +617,7 @@
         "url": "https://albiononline.com/en/profile/support",
         "difficulty": "hard",
         "notes": "You need to open a support ticket in order to delete your account.",
+        "notes_pt_pt": "Tem que abrir um ticket de suporte para eliminar a sua conta.",
         "domains": [
             "albiononline.com"
         ]
@@ -636,6 +649,7 @@
         "url": "https://www.alienwarearena.com/faq-contact#Contact1",
         "difficulty": "hard",
         "notes": "Contact the customer support using the contact email and request the deletion of your account.",
+        "notes_pt_pt": "Contacte o apoio ao cliente por e-mail e solicite a eliminação da sua conta.",
         "email": "contact@alienwarearena.com",
         "domains": [
             "alienwarearena.com"
@@ -756,6 +770,7 @@
         "notes_ru": "Свяжитесь со службой поддержки клиентов, используя контактную форму, и запросите удаление вашей учетной записи.",
         "notes_tr": "İletişim formunu kullanarak müşteri hizmetlerine başvurun ve hesabınızın silinmesini talep edin.",
         "notes_pt_br": "Entre em contato com o suporte ao cliente usando o formulário de contato e solicite a exclusão da sua conta.",
+        "notes_pt_pt": "Entre em contacto com o suporte ao cliente através do formulário de contacto e solicite a eliminação da sua conta.",
         "domains": [
             "androidfilehost.com"
         ]
@@ -909,6 +924,7 @@
         "url": "https://billing.apexminecrafthosting.com/submitticket.php",
         "difficulty": "hard",
         "notes": "You need to log into your billing panel and send a ticket regarding the account deletion. If you only have a multicraft account, you can send a ticket without logging in.",
+        "notes_pt_pt": "Necessta de iniciar sessão no painel de faturação e enviar um pedido de eliminação de conta. Se apenas tiver uma conta \"multicraft\" pode fazer o pedido sem iniciar sessão",
         "notes_ru": "Вам необходимо войти в свою биллинговую панель и отправить заявку на удаление учетной записи. Если у вас только «multicraft account», вы можете отправить тикет без входа в систему.",
         "notes_tr": "Faturalandırma panelinize giriş yapıp, hesabınızın silinmesi için talep göndermeniz gerekir. Eğer sadece multicraft hesabınız varsa, giriş yapmadan talep gönderebilirsiniz.",
         "domains": [
@@ -921,6 +937,7 @@
         "url": "https://apkpure.com/account/destroy",
         "difficulty": "easy",
         "notes": "Visit the linked page, provide a reason for deletion, then submit the form. Your account will be deleted within 48 hours.",
+        "notes_pt_pt": "Navegue para a página da hiperligação, providencie uma razão para a eliminação e submeta o formulário. A sua conta será eliminada nas 48 horas seguintes.",
         "domains": [
             "apkpure.com"
         ]
@@ -931,7 +948,8 @@
         "url": "https://suporte.apoia.se/hc/pt-br/articles/4408681019547-Como-encerrar-meu-cadastro-",
         "difficulty": "hard",
         "notes": "The exclusion will occur 7 (seven) days after filling the Google Docs form.",
-        "notes_pt_br": "A exclusão dar-se-á 7 (sete) após o preenchimento do formulário do Google Docs.",
+        "notes_pt_pt": "A eliminação ocorrerá 7 (sete) dias após o preenchimento do formulário do Google Docs.",
+        "notes_pt_br": "A exclusão dar-se-á 7 (sete) dias após o preenchimento do formulário do Google Docs.",
         "domains": [
             "apoia.se"
         ]
